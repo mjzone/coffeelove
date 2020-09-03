@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://media.giphy.com/media/ceeFbVxiZzMBi/giphy.gif" alt="logo" />
-        <h2>I love Tea!</h2>
+        <img src="https://media.giphy.com/media/Y0V3Gbcb6ZOUTmVeNL/giphy.gif" alt="logo" />
+        <h2>I love Coffee v2!</h2>
       </header>
     </div>
   );
