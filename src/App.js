@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="https://media.giphy.com/media/ceeFbVxiZzMBi/giphy.gif" alt="logo" />
-        <h2>I love Tea!</h2>
+        <h2>I love Banana!</h2>
       </header>
     </div>
   );
